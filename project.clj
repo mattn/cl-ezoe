@@ -3,7 +3,7 @@
   :url "https://github.com/mattn/cl-ezoe"
   :license {:name "MIT"
             :url "http://mattn.mit-license.org/2015"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojars.scsibug/feedparser-clj "0.4.0"]
                  [jansi-clj "0.1.0"]
                  [enlive "1.1.6"]
