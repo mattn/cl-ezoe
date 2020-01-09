@@ -7,7 +7,7 @@
                  [org.clojars.scsibug/feedparser-clj "0.4.0"]
                  [jansi-clj "0.1.0"]
                  [enlive "1.1.6"]
-                 [clj-http "1.1.2"]]
+                 [clj-http "3.10.0"]]
   :main ^:skip-aot ezoe.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
